@@ -1,0 +1,2 @@
+recursive-include dash_primereact_app/** *.js *.css *.json *.html
+prune tests
